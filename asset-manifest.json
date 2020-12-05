@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/friday.social/static/css/main.f02b323d.chunk.css",
+    "main.js": "/friday.social/static/js/main.1666fd47.chunk.js",
+    "main.js.map": "/friday.social/static/js/main.1666fd47.chunk.js.map",
+    "runtime-main.js": "/friday.social/static/js/runtime-main.052aacaf.js",
+    "runtime-main.js.map": "/friday.social/static/js/runtime-main.052aacaf.js.map",
+    "static/js/2.305fd820.chunk.js": "/friday.social/static/js/2.305fd820.chunk.js",
+    "static/js/2.305fd820.chunk.js.map": "/friday.social/static/js/2.305fd820.chunk.js.map",
+    "index.html": "/friday.social/index.html",
+    "static/css/main.f02b323d.chunk.css.map": "/friday.social/static/css/main.f02b323d.chunk.css.map",
+    "static/js/2.305fd820.chunk.js.LICENSE.txt": "/friday.social/static/js/2.305fd820.chunk.js.LICENSE.txt",
+    "static/media/LoginPage.scss": "/friday.social/static/media/msgArrow.41c6f72b.svg",
+    "static/media/LandingPage.scss": "/friday.social/static/media/screen_one_white.d481bdef.png",
+    "static/media/zee5_logo.8169a982.jpg": "/friday.social/static/media/zee5_logo.8169a982.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.052aacaf.js",
+    "static/js/2.305fd820.chunk.js",
+    "static/css/main.f02b323d.chunk.css",
+    "static/js/main.1666fd47.chunk.js"
+  ]
+}
