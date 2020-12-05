@@ -2,6 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://shan-friday.github.io/friday-social",
   "dependencies": {
     "@egjs/flicking": "^3.6.2",
     "@egjs/flicking-plugins": "^3.3.0",
