@@ -1,0 +1,19 @@
+$primary: #000;
+$secondary: #fff;
+
+/* change the theme */
+$theme-colors: (
+  "primary": $primary,
+  "secondary": $secondary,
+);
+
+$jumbotron-padding: 3rem;
+
+// Small devices (landscape phones, 576px and up)
+$small-screen-width: 576px;
+// Medium devices (tablets, 768px and up)
+$medium-screen-width: 768px;
+// Large devices (desktops, 992px and up)
+$large-screen-width: 992px;
+// Extra large devices (large desktops, 1200px and up)
+$extra-large-screen-width: 1200px

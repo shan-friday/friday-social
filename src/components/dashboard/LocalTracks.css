@@ -1,0 +1,20 @@
+.dropdown-item {
+  white-space: break-spaces !important;
+  font-size: 0.8rem;
+}
+
+.video-container {
+  position: relative;
+}
+
+.video-container:hover > .video-menu {
+  display: flex;
+}
+.video-menu {
+  justify-content: center;
+  display: none;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+}

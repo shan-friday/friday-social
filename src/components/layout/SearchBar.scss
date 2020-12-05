@@ -1,0 +1,10 @@
+@import '../../custom_variables.scss';
+// inline-block text-white italic text-4xl uppercase text-center w-full
+
+.logo-text {
+  text-transform: uppercase;
+  font-size: 2rem;
+  line-height: 2rem;
+  font-style: italic;
+  text-align: center;
+}
